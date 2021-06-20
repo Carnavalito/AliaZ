@@ -43,7 +43,7 @@ const Input = () =>{
     <FormControl as="textarea" aria-label="With textarea" />
   </InputGroup>
 </div>
-    )
+   )
 }
 
 export default Input;
