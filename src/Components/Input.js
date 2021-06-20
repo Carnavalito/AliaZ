@@ -36,8 +36,6 @@ const Input = () =>{
     </InputGroup.Prepend>
     <FormControl id="basic-url" aria-describedby="basic-addon3" />
   </InputGroup>
-
-
   <InputGroup>
     <InputGroup.Prepend>
       <InputGroup.Text>Historia</InputGroup.Text>
